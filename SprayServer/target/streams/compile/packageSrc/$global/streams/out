@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging D:\Palak\SprayServer\SprayServer\target\scala-2.11\sprayserver_2.11-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Server.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\Palak\SprayServer\SprayServer\src\main\scala\Server.scala[0m
+[0m[[0mdebug[0m] [0m	ServerAssigner.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\Palak\SprayServer\SprayServer\src\main\scala\ServerAssigner.scala[0m
+[0m[[0mdebug[0m] [0m	timerActor.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\Palak\SprayServer\SprayServer\src\main\scala\timerActor.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

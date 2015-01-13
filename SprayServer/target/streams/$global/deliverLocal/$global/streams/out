@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: sprayserver#sprayserver_2.11;1.0 :: 1.0 :: release :: Thu Dec 18 12:46:57 IST 2014[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Thu Dec 18 12:46:57 IST 2014 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to D:\Palak\SprayServer\SprayServer\target\scala-2.11\ivy-1.0.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (71ms)[0m

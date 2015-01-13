@@ -1,0 +1,5 @@
+publishLocal
+runMain Client 100000 1 0 localhost 8080 120
+runMain Client 1000 1 0 localhost 8080 120
+publishLocal
+runMain Client 1000 1 0 localhost 8080 80

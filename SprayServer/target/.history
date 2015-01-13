@@ -1,0 +1,10 @@
+runMain Server 100 1
+runMain Server 
+publishLocal
+runMain Server 10 1
+exit
+publishLocal
+runMain Server 10000 1 localhost 8080 100
+runMain Server 1000 1 localhost 8080 100
+publishLocal
+runMain Server 1000 1 localhost 8080 100
